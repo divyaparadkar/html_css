@@ -1,2 +1,2 @@
 # html_css
-i am make this repo for frountend 
+i am making this repo for frountend 
